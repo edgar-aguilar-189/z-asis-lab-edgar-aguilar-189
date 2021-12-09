@@ -1,0 +1,9 @@
+Name: Edgar Aguilar
+Lab Name: Z-Asis Content Generator
+Date Assigned: Sept 22, 2021
+Date Completed: Sept 22, 2021
+Status: Stalled.
+
+Outstanding Issues: Could not finish in time. 
+Major Impediments: Time limit.
+Feedback Comments: None
